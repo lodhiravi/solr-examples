@@ -1,0 +1,223 @@
+[
+  {
+    "id":"1",
+    "name":"Domino's Pizza",
+    "address":"Plot 381 & 382 scheme 114 part, AB Rd",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Kerbside pickup",
+      "No-contact delivery"
+    ],
+    "location":"22.770013,75.896542"
+  },
+  {
+    "id":"2",
+    "name":"Domino's Pizza",
+    "address":"Prime House, Ground Floor, GF 32, Meghdoot Park Road, Sayaji Circle, Vijay Nagar",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.750149,75.849600"
+  },
+  {
+    "id":"3",
+    "name":"Domino's Pizza",
+    "address":"C21 Mall, Shop No. 27 Ground Floor, AB Rd",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.719312,75.869585"
+  },
+  {
+    "id":"4",
+    "name":"Domino's Pizza",
+    "address":"3rd Floor, Food Court, Shop No. 8 & 9, Malhar Mega Mall, 299, 299A & 304, Sch No. 54, AB Rd",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.750121,75.855758"
+  },
+  {
+    "id":"5",
+    "name":"Domino's Pizza",
+    "address":"206, RNT Marg, The One Building, opp. DAVV University",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.724917,75.878197"
+  },
+  {
+    "id":"6",
+    "name":"Domino's Pizza",
+    "address":"G-5, Ground Floor, The Mark 20/A, Old Palasia Navneet Tower, Road",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.725951,75.881067"
+  },
+  {
+    "id":"7",
+    "name":"Domino's Pizza",
+    "address":"Shop Nos. 1CB, 1BA, 1BB, 1BC & 1CA, Ground Floor, Block-D Ocean Arcade Ocean Park Township, Indore Bypass Rd",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.719210,75.869078"
+  },
+  {
+    "id":"8",
+    "name":"Domino's Pizza",
+    "address":"Ground Floor P H No. 10, Village Hukmakhedi, Rajendra Nagar, AB Rd",
+    "phone":"0731 690 0060",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.707689,75.875727"
+  },
+  {
+    "id":"9",
+    "name":"Domino's Pizza",
+    "address":"1st Floor, Shivaji Bhawan, 308, Jawahar Marg",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.727939,75.875097"
+  },
+  {
+    "id":"10",
+    "name":"Domino's Pizza",
+    "address":"SCHEME NO. 47, Hall No 1 and 3, Ground Floor, Sapna Sangeeta Mall, Sapna Sangeeta Rd",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.715061,75.904538"
+  },
+  {
+    "id":"11",
+    "name":"Domino's Pizza",
+    "address":"Shop No. S-1, Survey No. 179/1/2, Ground floor, Block A, Sita Shree Residency, Airport Rd, Sirpur, Tahsil",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.749800,75.805276"
+  },
+  {
+    "id":"12",
+    "name":"Domino's Pizza",
+    "address":"CENTRAL MALL, Food Court Counter 1 & 3, 4th floor, 170, RNT Marg Near SSP office",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Kerbside pickup",
+      "No-contact delivery"
+    ],
+    "location":"22.723440,75.880834"
+  },
+  {
+    "id":"13",
+    "name":"Domino's Pizza",
+    "address":"Ground Floor, Patni Tower Plot No. - 1000 Sudama Nagar Main Road, Footi Kothi Rd",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.690036,75.879691"
+  },
+  {
+    "id":"14",
+    "name":"Domino's Pizza",
+    "address":"Ground Floor, Hotel Bee Town, Rajendra Nagar",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Kerbside pickup",
+      "No-contact delivery"
+    ],
+    "location":"22.695908,75.860265"
+  },
+  {
+    "id":"15",
+    "name":"Domino's Pizza",
+    "address":"BANGANGA MAIN ROAD, Ground Floor, Plot No. 83, 84 & 85 Khasra No. 340/1/3 in Ward No. 04/10, 166, Sh 27",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.738250,75.884327"
+  },
+  {
+    "id":"16",
+    "name":"Domino's Pizza",
+    "address":"Ground Floor Shop No 4 A 5 Veda Highstreet Plot No 8 Palsikar Colony Manikbagh Road Indore 452007",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.715983,75.853761"
+  },
+  {
+    "id":"17",
+    "name":"Domino's Pizza",
+    "address":"First Floor, Unit No. FC – 01, Phoenix Citadel Village Khajrana, next to Mumbai - Agra National Highway",
+    "phone":"1800 208 1234",
+    "closing_time":"11:00 PM",
+    "services":[
+      "Dine-in",
+      "Takeaway",
+      "No-contact delivery"
+    ],
+    "location":"22.706305,75.840642"
+  }
+]
